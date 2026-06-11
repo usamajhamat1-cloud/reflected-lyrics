@@ -1,0 +1,6 @@
+{
+  "name": "Reflected Lyrical",
+  "description": "Cinematic soundscapes, literary worlds, stage & screen. A curated creative collective founded by Amy Matthew.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
